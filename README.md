@@ -1,119 +1,143 @@
-# 📱 Used iPhone Buying & Full Checking Guide
+# 📱 Used iPhone Full Inspection & Buying Guide
 
-## ✅ Pre-Check with Seller
-- Ask for the **IMEI** or **Serial Number** for checking at [Apple Coverage](https://checkcoverage.apple.com/)
-- Ask about:
-  - Battery health %
-  - Any repairs done
-  - iCloud status
-  - Original invoice (if available)
-  - Why they’re selling
+A complete A–Z checklist to verify every part of a used iPhone before buying.
 
 ---
 
-## 🧰 What You’ll Need
-- A SIM card (your own)
-- Internet access (Wi-Fi or hotspot)
-- Mac or Windows PC with iTunes (optional)
-- Tools: 
-  - [3uTools](https://www.3u.com/) (for full diagnostics on Windows)
-  - Settings app (on device)
-  - iPhone’s own diagnostics menu
+## ✅ Pre-Purchase Questions (Ask Seller)
+- Why are you selling the iPhone?
+- What is the battery health percentage?
+- Has the device been repaired or opened?
+- Is the iPhone iCloud-free and reset?
+- Is the device original or refurbished?
+- Can you share the Serial or IMEI number?
+- Does Face ID / Touch ID work?
+
+---
+
+## 🧰 Tools You'll Need
+- Wi-Fi or mobile hotspot
+- Nano SIM card
+- A charging cable and adapter
+- Optional: Windows PC with [3uTools](https://www.3u.com/) or Mac with iTunes
+- Browser access to:
+  - [checkcoverage.apple.com](https://checkcoverage.apple.com)
+  - [imei24.com](https://www.imei24.com/)
+  - [deadpixeltest.org](https://deadpixeltest.org)
 
 ---
 
 ## 🔍 Physical Inspection
-
-### Screen:
-- Check for scratches, cracks, dead pixels
-- Check touch responsiveness
-- Enable True Tone & check brightness levels
-
-### Body:
-- Inspect for dents, heavy wear, or gaps
-- Check buttons: volume, mute, power
-- Check camera lenses for scratches or fog
-
-### Ports:
-- Inspect Lightning port for dirt or looseness
-- Test with a charger and earphones (if applicable)
+- **Front & Back Glass:** Check for cracks, deep scratches, or replacements
+- **Camera Lens:** Should be clean, no fog or cracks
+- **Body & Frame:** No bending or separation near edges
+- **Buttons:** Volume, mute switch, and power button must respond firmly
+- **Ports:** Lightning port should not be loose, dirty, or damaged
 
 ---
 
-## 📲 Functional Tests
+## 🖥️ Display / Screen Checking (Very Important)
+1. **Dead/Stuck Pixels:**  
+   - Open [deadpixeltest.org](https://deadpixeltest.org)  
+   - Tap full screen on Red, Green, Blue, White, and Black colors  
+   - Check for small dots that don’t change color
 
-### 1. **Device Info**
-- Settings > General > About
-  - Check Model Number, Serial Number
-  - Verify Storage capacity matches ad
-  - Check for "**Model Number**":
-    - **M = New**
-    - **F = Refurbished**
-    - **N = Replacement**
-    - **P = Personalized**
+2. **Touch Responsiveness:**  
+   - Drag apps across the screen  
+   - Open Notes or a drawing app and draw with your finger across the whole screen  
+   - Look for unresponsive areas (dead zones)
 
-### 2. **Battery**
+3. **Backlight Bleed (LCD only):**  
+   - In a dark room, set brightness to 100% and view a full black screen  
+   - Look for excessive light leakage at the screen edges
+
+4. **Burn-In / Ghosting (OLED only):**  
+   - Show a plain white background  
+   - Check for faint outlines of status bar, keyboards, or icons
+
+5. **Brightness & Colour Uniformity:**  
+   - Drag brightness from 0 to 100% and ensure smooth lighting  
+   - Colors should look natural, not yellow or blue-tinted
+
+6. **Line or Flicker Check:**  
+   - Watch for any green/pink vertical lines  
+   - Slightly press screen edges — no flickers should appear
+
+---
+
+## 📲 Functional Checks
+
+### Settings > General > About
+- **Model Number Prefix:**
+  - M = Retail Unit
+  - F = Refurbished
+  - N = Replacement
+  - P = Personalized
+- **Capacity** should match listed storage
+- **Check Serial/IMEI** on [Apple Coverage](https://checkcoverage.apple.com)
+
+### Battery
 - Settings > Battery > Battery Health
-  - Above 85% is good for used iPhones
+  - Minimum recommended: **85%**
   - Check for “Peak Performance Capability”
 
-### 3. **Cameras**
-- Open both front and back camera
-- Test photo, video, portrait, and zoom
-- Try flashlight
+### Face ID / Touch ID
+- Set up Face ID/Touch ID and test multiple unlocks
 
-### 4. **Speakers & Mic**
-- Play music & test loudness/clarity
-- Record a voice memo
-- Make a phone call
+### Camera Test
+- Open Camera > test:
+  - Photo, Video, Slo-mo, Portrait, Zoom
+- Flashlight should work too
 
-### 5. **Connectivity**
-- Insert SIM card, make a call
-- Turn on/off Wi-Fi, Bluetooth, Mobile Data
-- Test hotspot
+### Audio Test
+- Play music loud – no distortion
+- Record Voice Memo & play it back
+
+### Microphone Test
+- Make a call or use Siri and check if voice is detected
+
+### Call and SIM
+- Insert your SIM
+- Make a call, send a text, test mobile data
+
+### Connectivity Test
+- Turn on/off: Wi-Fi, Bluetooth, AirDrop
 - Test GPS using Google Maps
+- Enable Personal Hotspot and check
 
-### 6. **Face ID / Touch ID**
-- Set up and test multiple times
-
-### 7. **Sensors**
-- Test auto-brightness
-- Open Compass app, test gyroscope
-- Shake phone – screen should rotate
-
-### 8. **Screen Health**
-- Use [Dead Pixel Checker](https://deadpixeltest.org/)
-- No green or pink lines
+### Sensor Test
+- Rotate phone (auto-rotate must work)
+- Test compass, proximity (during calls), accelerometer (shake)
 
 ---
 
-## 🔒 Security & Authenticity
-
-- Ensure no **iCloud lock** (Settings > Apple ID)
-- Reset the device (Settings > General > Transfer or Reset iPhone > Erase All Content and Settings)
-- If it asks for previous Apple ID – walk away!
-- Check IMEI with [IMEI24](https://www.imei24.com/)
+## 🔒 iCloud & Security
+- Go to Settings > Tap Apple ID at top
+  - Must NOT be signed into any iCloud
+- Go to: Settings > General > Reset > Erase All Content and Settings
+  - If it asks for password → **DO NOT BUY**
+- Check IMEI at: [https://www.imei24.com/](https://www.imei24.com/)
 
 ---
 
-## ⚠️ Things to Avoid
-- Very low battery health (<80%)
-- Refurbished marked as "new"
-- iPhones with replacement camera/Face ID
-- iCloud locked devices
-- Too-good-to-be-true prices
+## ❌ Red Flags
+- iCloud-locked or activation-locked devices
+- Battery health under 80%
+- Burn-in, lines, or screen flickering
+- Non-original parts (3uTools can detect this)
+- Refurbished iPhone being sold as new
+- Face ID / Touch ID not working
 
 ---
 
 ## ✅ Final Checklist
-- [ ] iCloud removed & device erased
-- [ ] All buttons, ports, screen functional
-- [ ] Battery Health OK
-- [ ] Verified on Apple & IMEI websites
-- [ ] Camera & speakers tested
-- [ ] No overheating during use
+- [ ] iCloud removed and phone reset
+- [ ] Serial number verified on Apple site
+- [ ] Battery health is acceptable (85%+)
+- [ ] All buttons, cameras, and sensors working
+- [ ] Display fully tested and working
+- [ ] Charger and accessories tested
+- [ ] No hidden damage or performance lag
 
 ---
 
-## 🔚 Final Step
-Once passed, buy a quality case and screen protector to keep it safe.
